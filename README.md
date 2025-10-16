@@ -1,5 +1,6 @@
 # Giovana-Larocca
 # 👋 Olá, eu sou a Giovana Larocca!
+---
 
 🎓 Estudante de Engenharia de Software e técnica em Eletroeletrônica  
 🤖 Apaixonada por robótica, tecnologia e inovação  
