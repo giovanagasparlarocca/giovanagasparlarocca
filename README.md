@@ -21,8 +21,10 @@
 ---
 
 ## 📫 Contato
-📧 giovana@example.com  
-💼 [LinkedIn](https://www.linkedin.com/in/seu-link)  
+📧 giovanalarocca07@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/
+giovana-gaspar-larocca
+)  
 🌐 [Portfólio](https://seu-site.com)
 
 ---
