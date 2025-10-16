@@ -1,4 +1,3 @@
-# Giovana-Larocca
 
 <div align="center">
 
