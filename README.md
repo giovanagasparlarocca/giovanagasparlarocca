@@ -23,9 +23,7 @@
 
 ## 📫 Contato
 📧 giovanalarocca07@gmail.com
-💼 [LinkedIn](https://www.linkedin.com/in/
-giovana-gaspar-larocca
-)  
+💼 [LinkedIn](https://www.linkedin.com/in/giovana-gaspar-larocca)  
 🌐 [Portfólio](https://seu-site.com)
 
 ---
