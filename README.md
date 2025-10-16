@@ -4,8 +4,6 @@
 🎓 Estudante de Engenharia de Software e técnica em Eletroeletrônica  
 🤖 Apaixonada por robótica, tecnologia e inovação  
 💻 Experiência com Arduino, Python e desenvolvimento de dashboards  
-💃 Bailarina nas horas vagas — adoro o equilíbrio entre arte e ciência  
-
 ---
 
 ## 🚀 Tecnologias e Ferramentas
@@ -19,13 +17,6 @@
 - 🥇 Bolsa de estudos por destaque acadêmico  
 - 🤖 Participação e prêmios em competições de robótica (OBR)  
 - 💡 Desenvolvimento de protótipos com integração entre hardware e software  
-
----
-
-## 📊 Projetos em destaque
-- [📈 Dashboard IoT com Plotly e API Comet](https://github.com/seu-projeto)
-- [⚙️ Automação com Arduino e sensores](https://github.com/seu-projeto)
-- [⚽ Plataforma UXcellence – Futebol Para Todas](https://github.com/seu-projeto)
 
 ---
 
