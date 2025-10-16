@@ -3,7 +3,7 @@
 <div align="center">
 
   <h1>👋 Giovana Larocca</h1>
-  <p>🚀 Estudante de Engenharia de Software | Técnica em Eletroeletrônica | Entusiasta de Robótica e Inovação</p>
+  <p> Estudante de Engenharia de Software | Técnica em Eletroeletrônica | Entusiasta de Robótica e Inovação</p>
 
 </div>
 
